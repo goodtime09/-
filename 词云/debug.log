@@ -1,0 +1,2 @@
+[0415/214834.406:ERROR:file_io_win.cc(170)] CreateFile C:\Users\mountain\AppData\Local\Temp\scoped_dir8616_7263\Crashpad\reports\1f643891-29f0-4ff9-a80f-7762d7579ca4.dmp: 系统找不到指定的路径。 (0x3)
+[0415/214834.408:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
